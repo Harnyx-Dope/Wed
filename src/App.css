@@ -42,7 +42,7 @@
 {
   background-image: url('2.jpg');
   
-  background-size: 1200px 650px;
+  background-size:cover;
   background-repeat: no-repeat;
   height: 100Vh;
   justify-content: stretch;
@@ -51,7 +51,7 @@
 {
   background-image: url('Haldi.png');
   
-  background-size: 1200px 650px;
+  background-size: cover;
   background-repeat: no-repeat;
   height: 100Vh;
   justify-content: stretch;
@@ -60,7 +60,7 @@
 {
   background-image: url('Haldi1.png');
   
-  background-size: 1200px 650px;
+  background-size:  cover;
   background-repeat: no-repeat;
   height: 100Vh;
   justify-content: stretch;
@@ -69,7 +69,7 @@
 {
   background-image: url('last.jpeg');
   
-  background-size: 1200px 650px;
+  background-size:  cover;
   background-repeat: no-repeat;
   height: 100Vh;
   justify-content: stretch;
@@ -78,7 +78,7 @@
 {
   background-image: url('Mhendi.jpg');
   
-  background-size: 1200px 650px;
+  background-size:  cover;
   background-repeat: no-repeat;
   height: 100Vh;
   justify-content: stretch;
@@ -87,7 +87,7 @@
 {
   background-image: url('Family.JPG');
   
-  background-size: 1200px 650px;
+  background-size: cover;
   background-repeat: no-repeat;
   height: 100Vh;
   justify-content: stretch;
@@ -97,7 +97,7 @@
 {
   background-image: url('back.jpg');
   
-  background-size: 1200px 650px;
+  background-size: cover;
   background-repeat: no-repeat;
   height: 100Vh;
   justify-content: stretch;
@@ -135,3 +135,4 @@
   }
 }
  
+  
