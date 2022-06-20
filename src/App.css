@@ -1,0 +1,137 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  
+  align-items: text;
+  justify-content: top;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.Happy
+{
+  background-image: url('01.JPG');
+  background-size:  cover;
+  background-repeat: no-repeat;
+  height: 250Vh;
+   
+  
+  
+  justify-content: stretch;
+}
+ 
+
+ 
+.HVG2
+{
+  background-image: url('2.jpg');
+  
+  background-size: 1200px 650px;
+  background-repeat: no-repeat;
+  height: 100Vh;
+  justify-content: stretch;
+}
+.HVG3
+{
+  background-image: url('Haldi.png');
+  
+  background-size: 1200px 650px;
+  background-repeat: no-repeat;
+  height: 100Vh;
+  justify-content: stretch;
+}
+.HVG4
+{
+  background-image: url('Haldi1.png');
+  
+  background-size: 1200px 650px;
+  background-repeat: no-repeat;
+  height: 100Vh;
+  justify-content: stretch;
+}
+.HVG6
+{
+  background-image: url('last.jpeg');
+  
+  background-size: 1200px 650px;
+  background-repeat: no-repeat;
+  height: 100Vh;
+  justify-content: stretch;
+}
+.HVG5
+{
+  background-image: url('Mhendi.jpg');
+  
+  background-size: 1200px 650px;
+  background-repeat: no-repeat;
+  height: 100Vh;
+  justify-content: stretch;
+}
+.End
+{
+  background-image: url('Family.JPG');
+  
+  background-size: 1200px 650px;
+  background-repeat: no-repeat;
+  height: 100Vh;
+  justify-content: stretch;
+
+}
+.HVG1
+{
+  background-image: url('back.jpg');
+  
+  background-size: 1200px 650px;
+  background-repeat: no-repeat;
+  height: 100Vh;
+  justify-content: stretch;
+}
+.hiissd
+{
+  background-image: url('backkie.png');
+  background-size:  cover;
+  background-repeat: no-repeat;
+  height: 10Vh;
+  justify-content: stretch;
+  }
+.hiie
+{
+  background-image: url('Haldi.png');
+  background-size:  cover;
+  background-clip:    border-box;
+  background-repeat: no-repeat;
+  height: 120Vh;
+  justify-content: stretch;
+}
+.Vid{
+  align-content: center;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ 
