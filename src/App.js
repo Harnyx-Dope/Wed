@@ -17,7 +17,7 @@ function App() {
         <p class="lead" >
             May You  Have A Healthy And Prosperous Life 
           
-            Starting...
+             Ahead..
             <h2>Welcome to a Happy Journey</h2>
         </p> 
             
