@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c3ef82e.css",
+    "main.js": "/static/js/main.17af28dc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Family.JPG": "/static/media/Family.5a8b0527fd1d7d993bb7.JPG",
+    "static/media/01.JPG": "/static/media/01.cf16db6338ef88dae91e.JPG",
+    "static/media/back.jpg": "/static/media/back.f7620a4b0a766e4bde3c.jpg",
+    "static/media/Mhendi.jpg": "/static/media/Mhendi.8a02cbafbe91d29d9a91.jpg",
+    "static/media/2.jpg": "/static/media/2.528dd42577f57157c3b9.jpg",
+    "static/media/Haldi.png": "/static/media/Haldi.7a32d05db36d71116a48.png",
+    "static/media/last.jpeg": "/static/media/last.b17318f286622bc548c8.jpeg",
+    "static/media/Haldi1.png": "/static/media/Haldi1.d1e6ffbd8aae495fac15.png",
+    "static/media/backkie.png": "/static/media/backkie.dc711acccd9610c31e63.png",
+    "index.html": "/index.html",
+    "main.2c3ef82e.css.map": "/static/css/main.2c3ef82e.css.map",
+    "main.17af28dc.js.map": "/static/js/main.17af28dc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c3ef82e.css",
+    "static/js/main.17af28dc.js"
+  ]
+}
