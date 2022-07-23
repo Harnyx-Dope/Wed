@@ -34,7 +34,8 @@
   background-image: url('01.JPG');
   background-size:  cover;
   background-repeat: no-repeat;
-  height: 250Vh;
+  height: auto;
+  width: 100px;
    
   
   
