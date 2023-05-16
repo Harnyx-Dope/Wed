@@ -22,7 +22,7 @@
   background-image: url('01.JPG');
   background-size:  cover;
   background-repeat: no-repeat;
-  height: auto;
+  height: 100vmax;
   
   
   
@@ -49,7 +49,7 @@
   
   background-size:cover;
   background-repeat: no-repeat;
-  height: 100Vh;
+  height: 100vmax;
   justify-content: stretch;
 }
 .HVG3
@@ -58,7 +58,7 @@
   
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100Vh;
+  height: 100vmax;
   justify-content: stretch;
 }
 .HVG4
@@ -67,7 +67,7 @@
   
   background-size:  cover;
   background-repeat: no-repeat;
-  height: 100Vh;
+  height: 100vmax;
   justify-content: stretch;
 }
 .HVG6
@@ -76,7 +76,7 @@
   
   background-size:  cover;
   background-repeat: no-repeat;
-  height: 100Vh;
+  height: 100vmax;
   justify-content: stretch;
 }
 .HVG5
@@ -85,7 +85,7 @@
   
   background-size:  cover;
   background-repeat: no-repeat;
-  height: 100Vh;
+  height: 100vmax;
   justify-content: stretch;
 }
 .End
@@ -94,7 +94,7 @@
   
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100Vh;
+  height: 100vmax;
   justify-content: stretch;
 
 }
@@ -104,7 +104,7 @@
   
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100Vh;
+  height: 100vmax;
   justify-content: stretch;
 }
 .hiissd
@@ -112,7 +112,7 @@
   background-image: url('backkie.png');
   background-size:  cover;
   background-repeat: no-repeat;
-  height: 10Vh;
+  height: 100vmax;
   justify-content: stretch;
   }
 .hiie
@@ -121,7 +121,7 @@
   background-size:  cover;
   background-clip:    border-box;
   background-repeat: no-repeat;
-  height: 120Vh;
+  height: 100vmax;
   justify-content: stretch;
 }
 .Vid{
